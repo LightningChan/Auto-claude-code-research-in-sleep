@@ -1181,6 +1181,8 @@ README 可扫读。
 
 ## 10. ⚙️ 安装
 
+> 📖 **第一次用 ARIS？** [`SETUP_GUIDE_CN.md`](SETUP_GUIDE_CN.md) ([English](SETUP_GUIDE.md)) 给你一个 6 步 prescriptive 走法：macOS 本地 + 远程 Linux GPU 服务器 + Claude Code + Codex MCP，推荐路径。下面这一节是 comprehensive reference —— 覆盖所有平台、安装方式、配置开关。
+
 <a id="prerequisites"></a>
 
 ### 前置条件

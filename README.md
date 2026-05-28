@@ -1458,6 +1458,8 @@ scannable.
 
 ## 10. ⚙️ Setup
 
+> 📖 **New to ARIS?** [`SETUP_GUIDE.md`](SETUP_GUIDE.md) ([中文](SETUP_GUIDE_CN.md)) gives a prescriptive 6-step walkthrough for macOS local + remote Linux GPU server with Claude Code + Codex MCP — the recommended path. The section below is the comprehensive reference covering all platforms, install methods, and config knobs.
+
 <a id="prerequisites"></a>
 
 ### 10.1 Prerequisites
