@@ -24,7 +24,13 @@
   </a>
 </p>
 
-> 🎞️ *现在是图像版，下一步是视频 —— **[▶ 浏览器看全部 19 个场景 →](https://wanshuiyin.github.io/ARIS-Movie-Director/comic/)***
+<table><tr>
+<td width="33%"><a href="https://wanshuiyin.github.io/ARIS-Movie-Director/comic/"><img src="https://raw.githubusercontent.com/wanshuiyin/ARIS-Movie-Director/main/docs/preview_audit.webp" alt="ARIS-Movie-Director 帧 —— evaluator 诚实度审计页" width="100%"></a></td>
+<td width="33%"><a href="https://wanshuiyin.github.io/ARIS-Movie-Director/comic/"><img src="https://raw.githubusercontent.com/wanshuiyin/ARIS-Movie-Director/main/docs/preview_panels.webp" alt="ARIS-Movie-Director 帧 —— 多格场景" width="100%"></a></td>
+<td width="33%"><a href="https://wanshuiyin.github.io/ARIS-Movie-Director/comic/"><img src="https://raw.githubusercontent.com/wanshuiyin/ARIS-Movie-Director/main/docs/preview_fix.webp" alt="ARIS-Movie-Director 帧 —— 诚实度 beat（号称 +6.2，实际只动了 +1.4）" width="100%"></a></td>
+</tr></table>
+
+> 🎞️ *参考片里的几帧 —— 含故事自身的诚实度 beat（一次 **号称 `+6.2`** 实则 **只动了 `+1.4`** 的 run）。现在是图像版，下一步是视频 —— **[▶ 浏览器看全部 19 个场景 →](https://wanshuiyin.github.io/ARIS-Movie-Director/comic/)***
 
 🎯 **准备 2026 AI 秋招？** → [**🌐 ARIS-in-AI-Offer 网页版**](https://wanshuiyin.github.io/ARIS-in-AI-Offer/) · [GitHub repo](https://github.com/wanshuiyin/ARIS-in-AI-Offer) · [English](https://github.com/wanshuiyin/ARIS-in-AI-Offer/blob/main/README_EN.md) —— 长文中文 ML / LLM / 多模态 / 生成式 / Agent 面试 cheat sheet，每篇 = 公式推导 + 从零 PyTorch + 25 高频面试题（L1 / L2 / L3），全部由 ARIS 的 `/render-html` 自动生成。**希望大家秋招的时候轻松一点 🌱**
 
